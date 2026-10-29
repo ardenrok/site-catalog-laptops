@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/raw/
+data/*.backup.json
+.DS_Store
+npm-debug.log*

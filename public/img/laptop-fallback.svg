@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b7cff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="240" cy="238" rx="175" ry="16" fill="#8b7cff" opacity=".14"/>
+  <rect x="88" y="36" width="304" height="200" rx="16" fill="hsl(223,32%,11%)"/>
+  <rect x="102" y="50" width="276" height="172" rx="8" fill="url(#fbg)" opacity=".9"/>
+  <rect x="102" y="50" width="276" height="172" rx="8" fill="hsl(222,40%,9%)" opacity=".55"/>
+  <polygon points="102,50 214,50 150,222 102,222" fill="#ffffff" opacity=".07"/>
+  <path d="M62 240 L418 240 L436 272 Q438 278 430 278 L50 278 Q42 278 44 272 Z" fill="hsl(223,28%,17%)"/>
+  <rect x="196" y="266" width="88" height="7" rx="3.5" fill="hsl(223,14%,28%)"/>
+  <text x="240" y="150" text-anchor="middle" font-family="Manrope, Inter, sans-serif" font-size="26" font-weight="800" letter-spacing="5" fill="#eef2ff" opacity=".9">НЕТ ФОТО</text>
+</svg>

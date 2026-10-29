@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b7cff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#g)"/>
+  <path d="M16 22h32a2 2 0 0 1 2 2v18H14V24a2 2 0 0 1 2-2z" fill="#0b1020" opacity=".85"/>
+  <path d="M11 42h42l3 4a2 2 0 0 1-1.4 3H9.4A2 2 0 0 1 8 46l3-4z" fill="#0b1020" opacity=".95"/>
+  <text x="32" y="33.5" font-family="Manrope, Arial, sans-serif" font-size="12" font-weight="800" fill="#fff" text-anchor="middle">IST</text>
+</svg>
